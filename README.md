@@ -10,7 +10,7 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="www.linkedin.com/in/emre-ertekin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="emre-ertekin" height="30" width="40" /> </a>
+<a href="https://www.linkedin.com/in/emre-ertekin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="emre-ertekin" height="30" width="40" /> </a>
 <a href="https://instagram.com/emrertekn" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/128/1384/1384063.png" alt="emrertekn" height="30" width="40" /> </a>
 </p>
 
