@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact: **I love to fitness**
 
-
+<img src="https://komarev.com/ghpvc/?username=kardespro&label=Viewers&color=0066ff" alt="emrenow" />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
