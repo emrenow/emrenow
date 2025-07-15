@@ -8,7 +8,5 @@
 
 - 💻 I’m currently learning about **Node.js**
 
-- 📧 How to reach me? **Connect to me via Email [emrenow](mailto:)*
-
 - ⚡ Fun fact: **I love to fitness**
 
